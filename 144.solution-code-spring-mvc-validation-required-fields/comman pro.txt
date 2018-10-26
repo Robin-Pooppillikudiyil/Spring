@@ -1,6 +1,6 @@
 common problem ?
 
-Ans:when check for lastName  is validated  white spaces also passed throught validation process.
+Ans:when check for lastName  is validated, white spaces also passed throught validation process.
 	So,sloution is:
 		@InitBinder
 		
