@@ -1,0 +1,14 @@
+common problem ?
+
+Ans:when check for lastName  is validated  white spaces also passed throught validation process.
+	So,sloution is:
+		@InitBinder
+		
+		-@InitBinder annotation works as a pre-processor
+		-It will pre-process each web request to our controller
+		-Method annotated with @InitBinder is executed
+
+		-We will use this to trim Strings	
+		   > Remove leading and trailing white space
+		-If String only has white spaces...trim it to null
+		-Will resolve our validation problem .
