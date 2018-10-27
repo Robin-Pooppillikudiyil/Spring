@@ -2,10 +2,7 @@
 
 Spring is an enterprise Java framework. It was designed to simplify Java EE development and make developers more productive. Spring makes use of Inversion of Control and Dependency Injection to promote good software coding practices and speed up development time.
 
-This course covers Spring Core, Annotations, All Java Spring Configuration, Spring AOP, Spring MVC, Spring Security and Spring REST.
-
-
-
+.
 
 >Spring Core
 
